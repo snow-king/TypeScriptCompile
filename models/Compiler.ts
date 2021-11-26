@@ -1,3 +1,5 @@
+
+
 export class Compiler{
     protected objectCode : Object
     constructor(code : object ) {
